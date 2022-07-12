@@ -1,4 +1,4 @@
-### Hi there 👋
+[![Social banner for jh3y](https://media-exp1.licdn.com/dms/image/C5616AQFQyEgkOD1uVg/profile-displaybackgroundimage-shrink_350_1400/0/1520761696715?e=1663200000&v=beta&t=PfkjeqvN7-ss_iG7Zp3JkkMtCJMADcuyDXhIYhseDg8)](https://x8lucas8x.com)
 
 <!--
 **x8lucas8x/x8lucas8x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<h4>
+<a href="https://www.linkedin.com/in/x8lucas8x">LinkedIn</a> • <a href="https://twitter.com/x8lucas8x">Twitter</a>
+</h4>
