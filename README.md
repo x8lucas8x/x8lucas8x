@@ -16,5 +16,10 @@ Here are some ideas to get you started:
 -->
 
 <h4>
-<a href="https://www.linkedin.com/in/x8lucas8x">LinkedIn</a> • <a href="https://twitter.com/x8lucas8x">Twitter</a>
+<a href="https://x8lucas8x.com/personal-readme/">Personal README</a> • <a href="https://www.linkedin.com/in/x8lucas8x">LinkedIn</a> • <a href="https://twitter.com/x8lucas8x">Twitter</a>
 </h4>
+
+My last blog posts were:
+
+<!-- blog-post-list:start -->
+<!-- blog-post-list:end -->
