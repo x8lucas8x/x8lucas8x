@@ -13,6 +13,8 @@ jobs:
         uses: ErrorGamer2000/github-readme-blog-post-action@v1
         with:
           feed_urls: https://x8lucas8x.com/rss.xml
+          max_posts_per_url: 6
+          show_feed_data: false
       - name: Commit changed files
         uses: stefanzweifel/git-auto-commit-action@v4
         with:
