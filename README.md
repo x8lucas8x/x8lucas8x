@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <a href="https://x8lucas8x.com/personal-readme/">Personal README</a> • <a href="https://www.linkedin.com/in/x8lucas8x">LinkedIn</a> • <a href="https://twitter.com/x8lucas8x">Twitter</a>
 </h4>
 
-My last blog posts were:
+My last six blog posts were:
 
 <!-- blog-post-list:start -->
 [![I used to hate 1on1s](https://raw.githubusercontent.com/x8lucas8x/x8lucas8x/main/blog-post-list-output/Lucas'_Refuge_Feed/I_used_to_hate_1on1s.svg)](https://x8lucas8x.com/i-used-to-hate-1on1s/)
@@ -31,3 +31,5 @@ My last blog posts were:
 
 
 <!-- blog-post-list:end -->
+
+To keep reading older posts, please visit https://x8lucas8x.com.
