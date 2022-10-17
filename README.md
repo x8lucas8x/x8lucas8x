@@ -22,12 +22,12 @@ Here are some ideas to get you started:
 My last six blog posts were:
 
 <!-- blog-post-list:start -->
-[![I used to hate 1on1s](https://raw.githubusercontent.com/x8lucas8x/x8lucas8x/main/blog-post-list-output/Lucas'_Refuge_Feed/I_used_to_hate_1on1s.svg)](https://x8lucas8x.com/i-used-to-hate-1on1s/)
-[![Narrative matters](https://raw.githubusercontent.com/x8lucas8x/x8lucas8x/main/blog-post-list-output/Lucas'_Refuge_Feed/Narrative_matters.svg)](https://x8lucas8x.com/narrative-matters/)
-[![Deep thinking time](https://raw.githubusercontent.com/x8lucas8x/x8lucas8x/main/blog-post-list-output/Lucas'_Refuge_Feed/Deep_thinking_time.svg)](https://x8lucas8x.com/deep-thinking-time/)
-[![How can I help you?](https://raw.githubusercontent.com/x8lucas8x/x8lucas8x/main/blog-post-list-output/Lucas'_Refuge_Feed/How_can_I_help_you_.svg)](https://x8lucas8x.com/how-can-i-help-you/)
-[![Personal README](https://raw.githubusercontent.com/x8lucas8x/x8lucas8x/main/blog-post-list-output/Lucas'_Refuge_Feed/Personal_README.svg)](https://x8lucas8x.com/personal-readme/)
-[![Zeroless](https://raw.githubusercontent.com/x8lucas8x/x8lucas8x/main/blog-post-list-output/Lucas'_Refuge_Feed/Zeroless.svg)](https://x8lucas8x.com/zeroless/)
+[![Advice to those onboarding](https://raw.githubusercontent.com/x8lucas8x/x8lucas8x/main/blog-post-list-output/Lucas'_Refuge_Feed/Advice_to_those_onboarding.svg)](https://x8lucas8x.com/advice-to-those-onboarding)
+[![Being an engineer makes me tick](https://raw.githubusercontent.com/x8lucas8x/x8lucas8x/main/blog-post-list-output/Lucas'_Refuge_Feed/Being_an_engineer_makes_me_tick.svg)](https://x8lucas8x.com/being-an-engineer-makes-me-tick)
+[![Career fears](https://raw.githubusercontent.com/x8lucas8x/x8lucas8x/main/blog-post-list-output/Lucas'_Refuge_Feed/Career_fears.svg)](https://x8lucas8x.com/career-fears)
+[![I used to hate 1on1s](https://raw.githubusercontent.com/x8lucas8x/x8lucas8x/main/blog-post-list-output/Lucas'_Refuge_Feed/I_used_to_hate_1on1s.svg)](https://x8lucas8x.com/i-used-to-hate-1on1s)
+[![Narrative matters](https://raw.githubusercontent.com/x8lucas8x/x8lucas8x/main/blog-post-list-output/Lucas'_Refuge_Feed/Narrative_matters.svg)](https://x8lucas8x.com/narrative-matters)
+[![Deep thinking time](https://raw.githubusercontent.com/x8lucas8x/x8lucas8x/main/blog-post-list-output/Lucas'_Refuge_Feed/Deep_thinking_time.svg)](https://x8lucas8x.com/deep-thinking-time)
 
 
 <!-- blog-post-list:end -->
