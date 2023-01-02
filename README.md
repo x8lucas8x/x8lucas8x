@@ -1,4 +1,4 @@
-[![Social banner for jh3y](https://media-exp1.licdn.com/dms/image/C5616AQFQyEgkOD1uVg/profile-displaybackgroundimage-shrink_350_1400/0/1520761696715?e=1663200000&v=beta&t=PfkjeqvN7-ss_iG7Zp3JkkMtCJMADcuyDXhIYhseDg8)](https://x8lucas8x.com)
+[![x8lucas8x Blog](https://github.com/x8lucas8x/x8lucas8x/raw/main/banner.jpeg)](https://x8lucas8x.com)
 
 <!--
 **x8lucas8x/x8lucas8x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
