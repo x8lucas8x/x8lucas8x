@@ -12,7 +12,7 @@ jobs:
       - name: Generate
         uses: ErrorGamer2000/github-readme-blog-post-action@v1
         with:
-          feed_urls: https://x8lucas8x.com/rss.xml
+          feed_urls: https://x8lucas8x.com/feeds/all.feed.rss
           max_posts_per_url: 6
           show_feed_data: false
       - name: Commit changed files
